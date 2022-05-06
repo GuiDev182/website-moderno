@@ -1,0 +1,41 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid; */
+}
+
+.h2_iphone, .h1_iphone{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.h1_iphone{
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.h2_iphone{
+    margin-top: 200px;
+}
+
+#video{
+    width: 100%;
+}
+
+.ate{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 150px;
+}
+.tb{
+    font-family: sans-serif;
+    font-size: 400px;
+    margin-left: 50px;
+}
+.armazen{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    
+}
